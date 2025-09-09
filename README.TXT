@@ -25,4 +25,12 @@ can be changed by enrolling it.
 
 Question 4) private instructorTutor;
 
-Question 5)
+Question 5) Each time i do the increment method, hours.increment(); shows up. The value goes up by 1 everytime i increment and it resets to 1 each time
+i reach the value of 24.
+
+Question 6) For the mintue  object, it shows minutes.increment();
+Everytime the value for mintues rolls over, we increment value on the object "Hours". Because 60 minutes = 1 hour has passed.   
+
+Question 7) I typed in the commands for this one and everytime i entered the increment command in the pad, the value increases by 1 i n the terminal window.
+
+Question 8)
