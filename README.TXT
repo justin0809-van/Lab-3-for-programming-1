@@ -33,4 +33,14 @@ Everytime the value for mintues rolls over, we increment value on the object "Ho
 
 Question 7) I typed in the commands for this one and everytime i entered the increment command in the pad, the value increases by 1 i n the terminal window.
 
-Question 8)
+Question 8) First command worked, thats because it was below the display limit:6.  The second command didnt work because it went over the limit
+so it rolled over and went back to zero. If i wish to get the number 10, i'll have to put higher display number.
+
+Question 9) I predicted the answer and it's 0.
+
+Question 10) Error: non-static method getValue() cannot be referenced from a static context
+
+Question 11) Error code i receive is display.setValue(int 5);
+             The correct method is display.setValue(5);
+             
+Question 12)
