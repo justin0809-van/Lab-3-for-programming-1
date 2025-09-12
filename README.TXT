@@ -43,4 +43,23 @@ Question 10) Error: non-static method getValue() cannot be referenced from a sta
 Question 11) Error code i receive is display.setValue(int 5);
              The correct method is display.setValue(5);
              
-Question 12)
+Question 12) After replacing it, it doesnt roll over when it hits 10 anymore. So <= means it wont rollover if the value
+is equivalent or higher than 10.
+
+Question 13)0
+
+Question 14)You can now set negative values as long as they are greater or equal than the value.
+
+Question 15) - ! false
+             - (34 != 33) && ! false
+             
+Question 16) (a && b)
+
+Question 17) (a! && b) or (a && b!)
+
+Question 18) its 0.
+
+Question 19) No, both returns the same string.
+
+Question 20) Yes it did. its because, when a string comes after numbers, the numbers gets added.
+if the string comes before numbers, then it becomes a whole string.
